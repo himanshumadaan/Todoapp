@@ -1,0 +1,104 @@
+{
+  "User": [
+    {
+      "name": "Mohan Dandriyal",
+      "email": "dandriyal2000@gmail.com",
+      "phone": "8449141815",
+      "gender": "male",
+      "address": " Almora Uttarakhand ",
+      "title": "Front End Developer ",
+      "image_file": "",
+      "passrord": "Mohan@10",
+      "id": 1
+    }
+  ],
+  "thems": [
+    {
+      "theme": "dark",
+      "id": 1
+    }
+  ],
+  "todo": [
+    {
+      "todo": "helo",
+      "status": "completed",
+      "createdAt": "Sun Oct 08 2023",
+      "Assigntime": "0:37",
+      "updateAt": "Sun Oct 08 2023",
+      "UpdatedTime": "0:38",
+      "id": 1
+    },
+    {
+      "todo": "hii",
+      "status": "pending",
+      "createdAt": "Sun Oct 08 2023",
+      "Assigntime": "0:38",
+      "updateAt": null,
+      "UpdatedTime": null,
+      "id": 2
+    },
+    {
+      "todo": "hii",
+      "status": "pending",
+      "createdAt": "Sun Oct 08 2023",
+      "Assigntime": "0:38",
+      "updateAt": null,
+      "UpdatedTime": null,
+      "id": 3
+    },
+    {
+      "todo": "car",
+      "status": "pending",
+      "createdAt": "Sun Oct 08 2023",
+      "Assigntime": "0:38",
+      "updateAt": null,
+      "UpdatedTime": null,
+      "id": 4
+    },
+    {
+      "todo": "bus",
+      "status": "pending",
+      "createdAt": "Sun Oct 08 2023",
+      "Assigntime": "0:38",
+      "updateAt": null,
+      "UpdatedTime": null,
+      "id": 5
+    },
+    {
+      "todo": "motor",
+      "status": "pending",
+      "createdAt": "Sun Oct 08 2023",
+      "Assigntime": "0:39",
+      "updateAt": null,
+      "UpdatedTime": null,
+      "id": 6
+    },
+    {
+      "todo": "helo",
+      "status": "pending",
+      "createdAt": "Mon Oct 09 2023",
+      "Assigntime": "13:29",
+      "updateAt": null,
+      "UpdatedTime": null,
+      "id": 7
+    },
+    {
+      "todo": "himanshutodo",
+      "status": "pending",
+      "createdAt": "Mon Oct 09 2023",
+      "Assigntime": "13:32",
+      "updateAt": null,
+      "UpdatedTime": null,
+      "id": 8
+    },
+    {
+      "todo": "hello",
+      "status": "pending",
+      "createdAt": "Mon Oct 09 2023",
+      "Assigntime": "13:37",
+      "updateAt": null,
+      "UpdatedTime": null,
+      "id": 9
+    }
+  ]
+}
